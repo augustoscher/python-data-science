@@ -30,6 +30,15 @@ print()
 # Normal: gera números aleatórios com a mesma probabilidade de aparecerem
 idades3 = np.random.normal(30, 3, size=10)
 print(np.round(idades3, 3))
+print()
 
+# Gera array de boleanos com considerando a regra para cada posição
+array = np.random.randint(0, 50, size=30).astype(np.int)
+v = array > 15
+print(v)
+print()
 
+# Retorna so os itens que são true
+print(array[v])
+print()
 
