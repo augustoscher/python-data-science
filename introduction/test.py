@@ -35,7 +35,20 @@ if 'id2' in pessoas:
     print(pessoas['id2'])
 else:
     print('Não tem a chave')
+print()
 
+print('Functions')
+is_pair = lambda x, y, z=10 : (x + y - z) % 2 == 0
+print(is_pair(2, 3, 9))
+print(is_pair(2, 3))
+print()
 
+print('Var args')
+def somaaae(*args):
+    res = 0
+    for v in args:
+        res += v
+    return res
 
-
+print(somaaae(1, 3, 4, 5))
+print()
