@@ -1,6 +1,8 @@
 import numpy as np
 import pandas as pd
 
+# TODO fazer com que o usuário possa fazer o input da coluna
+
 class DeteccaoAnomalia:
 
   def __init__(self, df, coluna):
