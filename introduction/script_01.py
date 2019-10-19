@@ -19,8 +19,6 @@ print(dic)
 
 print()
 
-def pair(v):
-    return v % 2 == 0
 
 while True:
     valor = input('Digite um número: ')
@@ -34,5 +32,25 @@ while True:
     print("Digitou: {}".format(valor))
     if (is_pair(valor)):
         print(f"O valor {valor} é par")
+
+print()
+print('Generators')
+
+def pair(v):
+    return v % 2 == 0
+
+def ler_valor():
+    while True:
+        valor = input('Digite um número: ')
+        try:
+            yield int(valor)
+        except:
+            raise StopIteration()
+
+for valor in ler_valor():
+    if pair(valor):
+        print(f'{valor} é par')
+    else:
+        print(f'{valor} não é par')
 
 
