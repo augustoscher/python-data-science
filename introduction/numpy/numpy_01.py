@@ -16,8 +16,8 @@ print(np.median(idades))
 print()
 
 # Operações vetorizadas
-idades1 = np.random.randint(24, 50, size=31)
-idades2 = np.random.randint(24, 50, size=31)
+idades1 = np.random.randint(24, 50, size=31).astype(np.int)
+idades2 = np.random.randint(24, 50, size=31).astype(np.int)
 
 diff = idades1 - idades2
 print(diff)
@@ -25,6 +25,11 @@ print(diff)
 # Media de idade da subtração de idades1 - idades2
 # Sabemos que a diferença da media de idades é
 print(np.round(diff.mean(), 3))
+print()
+
+# Normal: gera números aleatórios com a mesma probabilidade de aparecerem
+idades3 = np.random.normal(30, 3, size=10)
+print(np.round(idades3, 3))
 
 
 

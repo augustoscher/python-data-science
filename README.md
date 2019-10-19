@@ -24,6 +24,7 @@ pip install numpy
 
 Help para np.random
 ```
+help(csv.dictReader)
 dir(np.random)
 ```
 
