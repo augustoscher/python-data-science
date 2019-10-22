@@ -12,12 +12,20 @@ from sklearn.neighbors import KNeighborsClassifier
 # X é uma matriz
 # y é um vetor/equação
 (X, y) = load_iris(return_X_y=True)
+print(X)
+print(y)
 
 # Usa 80% dos dados para treinar o modelo
 # Os 20% restantes são usados para testar o modelo
 data = train_test_split(X, y, test_size=0.2, random_state=1)
 (X_train, X_test, y_train, y_test) = data
-
+# print(X_train)
+# print()
+# print(X_test)
+# print()
+# print(y_train)
+# print()
+# print(y_test)
 
 # KNN
 classifier = KNeighborsClassifier(n_neighbors=5)

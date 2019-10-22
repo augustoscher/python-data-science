@@ -26,10 +26,10 @@ modelo.fit(X_train, y_train)
 y_hat = modelo.predict(X_test)
 
 # Quanto meu algoritmo é bom em relação ao que eu esperava
-print(modelo.score(X_test, y_test))
+print(f'score: {modelo.score(X_test, y_test)}')
 
 # Erro quadrado médio. Quanto meu algoritmo em média, erra :/
 # Desempenho
 # y_hat = previsão
 # y_test = o que era esperado
-print(np.square(y_hat - y_test).mean())
+print(f'erro quadrado médio: {np.square(y_hat - y_test).mean()}')
