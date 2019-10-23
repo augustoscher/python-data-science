@@ -1,16 +1,17 @@
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
-
 from scipy.stats import mode
 
 
 def classificar(k, train, X_test):
     (X_train, y_train) = train
-
+    print(X_train)
     for i in range(len(X_test)):
+
+        # Busca linha por linha da matriz
         x = X_test[i, :]
-        
+
         # calcula distância euclidiana
         diff_quadrado = (X_train - x) ** 2
         distancia = diff_quadrado.sum(axis=1)

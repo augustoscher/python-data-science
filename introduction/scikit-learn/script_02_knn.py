@@ -12,8 +12,8 @@ from sklearn.neighbors import KNeighborsClassifier
 # X é uma matriz
 # y é um vetor/equação
 (X, y) = load_iris(return_X_y=True)
-print(X)
-print(y)
+# print(X)
+# print(y)
 
 # Usa 80% dos dados para treinar o modelo
 # Os 20% restantes são usados para testar o modelo
@@ -32,6 +32,8 @@ classifier = KNeighborsClassifier(n_neighbors=5)
 classifier.fit(X_train, y_train)
 
 y_pred = classifier.predict(X_test)
+print(y_pred)
+print(y_pred.shape)
 
 # print(X_train.shape)
 p1 = X_train[0, :]
