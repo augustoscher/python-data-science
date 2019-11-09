@@ -1,6 +1,8 @@
 # Para executar:     scrapy runspider spiders/quotes_toscrape_com.py
 # Salvar em arquivo: scrapy runspider spiders/quotes_toscrape_com.py -o quotes.csv
 # Salvar em arquivo: scrapy runspider spiders/quotes_toscrape_com.py -o quotes.json
+from datetime import datetime
+
 import scrapy
 
 from quotes_project.items import QuotesItem
@@ -18,7 +20,8 @@ class QuotesToscrapeComSpider(scrapy.Spider):
         text=text,
         author=autor,
         url=response.url,
-        rank=1
+        rank=1,
+        scrape_date=datetime.now().isoformat()
       )
         
     # Paginação
