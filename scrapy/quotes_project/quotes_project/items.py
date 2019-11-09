@@ -8,7 +8,9 @@
 import scrapy
 
 
-class QuotesProjectItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+class QuotesItem(scrapy.Item):
+    author = scrapy.Field()
+    text = scrapy.Field()
+    scrape_date = scrapy.Field()
+    url = scrapy.Field()
+    rank = scrapy.Field()
