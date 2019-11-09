@@ -16,7 +16,7 @@ from sklearn.model_selection import train_test_split
 data = train_test_split(X, y, test_size=0.2, random_state=1)
 (X_train, X_test, y_train, y_test) = data
 
-# Cria modelo de regressão linear
+# Cria modelo de regressão linear - encontra uma reta no gráfico
 modelo = LinearRegression()
 
 # Treina o modelo

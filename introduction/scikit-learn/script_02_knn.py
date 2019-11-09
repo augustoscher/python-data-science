@@ -19,13 +19,6 @@ from sklearn.neighbors import KNeighborsClassifier
 # Os 20% restantes são usados para testar o modelo
 data = train_test_split(X, y, test_size=0.2, random_state=1)
 (X_train, X_test, y_train, y_test) = data
-# print(X_train)
-# print()
-# print(X_test)
-# print()
-# print(y_train)
-# print()
-# print(y_test)
 
 # KNN
 classifier = KNeighborsClassifier(n_neighbors=5)
@@ -42,8 +35,3 @@ p2 = X_test[0, :]
 # ** 2 é ao quadrado
 distancia = np.sum((p1 - p2) ** 2)
 print(distancia)
-
-# Precisa iterar entre os valores calcular
-# Fazer o k ser uma variável e iterar 
-
-
