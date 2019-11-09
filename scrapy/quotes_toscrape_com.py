@@ -18,5 +18,7 @@ class QuotesToscrapeComSpider(scrapy.Spider):
         'author': autor
       }
     
+    # Paginação
     url = response.css('.pager .next a::attr(href)').get()
-    yield response.follow(url)
+    if url is not None:
+      yield response.follow(url)
