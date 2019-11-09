@@ -20,21 +20,14 @@ def classify(k, train, X_test):
 
   for i in range(len(X_test)):
     # Busca linha por linha da matriz
-    x = X_test[i, :]
-
-    # Potencia de 2
-    distancia = np.sum((p1 - p2) ** 2)
-    print(distancia)
-
-    # calcula distância euclidiana
-    diff_quadrado = (X_train - x) ** 2
-    distancia = diff_quadrado.sum(axis=1)
-    # print(distancia)
+    distances = np.square(X_test[i, :] - X_train)
+    distances = np.sum(distances, axis=1)
 
     # ordena da menor para a maior distância e pega as primeiras "k" distâncias
-    min_k = distancia.argsort()[:k]
+    indices = np.argsort(distances)
+    top_k = indices[:k]
     # pega o valor mais frequente (moda)
-    label = mode(y_train[min_k]).mode[0]
+    label = mode(y_train[top_k]).mode[0]
     yield label
 
 # TODO Carregar e Splitar os dados em teste e treino e chamar a function
