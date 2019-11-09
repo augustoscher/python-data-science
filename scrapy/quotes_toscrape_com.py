@@ -17,3 +17,6 @@ class QuotesToscrapeComSpider(scrapy.Spider):
         'text': text,
         'author': autor
       }
+    
+    url = response.css('.pager .next a::attr(href)').get()
+    yield response.follow(url)
