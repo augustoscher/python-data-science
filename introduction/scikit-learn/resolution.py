@@ -71,5 +71,5 @@ for i in range(len(X_test)):
 # Com base no array de distancias, 
 # descobrir o  indice dos dos k menores distancias.
 
-# indexes = get_short_distance_indixes(k=3, distances)
+#   indexes = get_short_distance_indixes(k=3, distances)
 
