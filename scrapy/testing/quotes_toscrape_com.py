@@ -3,6 +3,7 @@
 # Salvar em arquivo: scrapy runspider quotes_toscrape_com.py -o quotes.json
 import scrapy
 
+
 class QuotesToscrapeComSpider(scrapy.Spider):
   name = 'quotes.toscrape.com'
   allowed_domains = ['quotes.toscrape.com']
