@@ -8,3 +8,4 @@ Editar
 
 Rodar:
 > scrapy runspider spiders/quotes_toscrape_com.py
+> scrapy runspider spiders/quotes_toscrape_com.py -o quotes.csv
