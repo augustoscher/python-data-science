@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 
+from books_project.items import BooksItem
 
 class BooksToscrapeComSpider(scrapy.Spider):
     name = 'books.toscrape.com'
