@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-from datetime import datetime
-
 import scrapy
 
 from books_project.items import BooksItem
@@ -9,6 +7,11 @@ class BooksToscrapeComSpider(scrapy.Spider):
     name = 'books.toscrape.com'
     allowed_domains = ['books.toscrape.com']
     start_urls = ['http://books.toscrape.com/']
+
+    def get_name(self, name):
+      res = name[70:-18]
+      res = res.replace('lt=', '').replace('"', '').strip()
+      return res
 
     def get_stars_count(self, param):
       idx = param.find('star-rating') + 12
@@ -24,14 +27,16 @@ class BooksToscrapeComSpider(scrapy.Spider):
         stars_str = book.css('p.star-rating').get()
 
         yield BooksItem (
-          name=name[70:-18],
+          name= self.get_name(name),
           price = float(price_str),
           avaiable = True,
-          qtd = '',
+          qtd = 'qtd',
           stars = self.get_stars_count(stars_str),
-          category = '',
-          upc = '',
-          scrape_date=datetime.now().isoformat(),
+          category = 'Category',
+          upc = 'Upc',
         )
       
+      url = response.css('.pager .next a::attr(href)').get()
+      if url is not None:
+        yield response.follow(url)
 

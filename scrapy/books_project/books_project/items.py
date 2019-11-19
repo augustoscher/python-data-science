@@ -16,4 +16,3 @@ class BooksItem(scrapy.Item):
     stars = scrapy.Field()
     category = scrapy.Field()
     upc = scrapy.Field()
-    scrape_date = scrapy.Field()

@@ -1,21 +1,1001 @@
-avaiable,category,name,price,qtd,scrape_date,stars,upc
-True,,"""A Light in the Attic"" ",51.77,,2019-11-19T16:49:48.735438,3,
-True,,"""Tipping the Velvet"" ",53.74,,2019-11-19T16:49:48.738266,1,
-True,,"""Soumission"" ",50.1,,2019-11-19T16:49:48.740753,1,
-True,,"""Sharp Objects"" ",47.82,,2019-11-19T16:49:48.743083,4,
-True,,"""Sapiens: A Brief History of Humankind"" ",54.23,,2019-11-19T16:49:48.745265,5,
-True,,"""The Requiem Red"" ",22.65,,2019-11-19T16:49:48.750658,1,
-True,,"""The Dirty Little Secrets of Getting Your Dream Job"" ",33.34,,2019-11-19T16:49:48.752155,4,
-True,,"""The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull"" ",17.93,,2019-11-19T16:49:48.753437,3,
-True,,"""The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics"" ",22.6,,2019-11-19T16:49:48.754946,4,
-True,,"""The Black Maria"" ",52.15,,2019-11-19T16:49:48.756361,1,
-True,,"""Starving Hearts (Triangular Trade Trilogy, #1)"" ",13.99,,2019-11-19T16:49:48.757288,2,
-True,,"""Shakespeare's Sonnets"" ",20.66,,2019-11-19T16:49:48.758237,4,
-True,,"""Set Me Free"" ",17.46,,2019-11-19T16:49:48.759206,5,
-True,,"""Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)"" ",52.29,,2019-11-19T16:49:48.760193,5,
-True,,"""Rip it Up and Start Again"" ",35.02,,2019-11-19T16:49:48.761080,5,
-True,,"""Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991"" ",57.25,,2019-11-19T16:49:48.761927,3,
-True,,"""Olio"" ",23.88,,2019-11-19T16:49:48.762858,1,
-True,,"""Mesaerion: The Best Science Fiction Stories 1800-1849"" ",37.59,,2019-11-19T16:49:48.763759,1,
-True,,"""Libertarianism for Beginners"" ",51.33,,2019-11-19T16:49:48.765387,2,
-True,,"""It's Only the Himalayas"" ",45.17,,2019-11-19T16:49:48.766284,2,
+avaiable,category,name,price,qtd,stars,upc
+True,Category,A Light in the Attic,51.77,qtd,3,Upc
+True,Category,Tipping the Velvet,53.74,qtd,1,Upc
+True,Category,Soumission,50.1,qtd,1,Upc
+True,Category,Sharp Objects,47.82,qtd,4,Upc
+True,Category,Sapiens: A Brief History of Humankind,54.23,qtd,5,Upc
+True,Category,The Requiem Red,22.65,qtd,1,Upc
+True,Category,The Dirty Little Secrets of Getting Your Dream Job,33.34,qtd,4,Upc
+True,Category,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,qtd,3,Upc
+True,Category,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,qtd,4,Upc
+True,Category,The Black Maria,52.15,qtd,1,Upc
+True,Category,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,qtd,2,Upc
+True,Category,Shakespeare's Sonnets,20.66,qtd,4,Upc
+True,Category,Set Me Free,17.46,qtd,5,Upc
+True,Category,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,qtd,5,Upc
+True,Category,Rip it Up and Start Again,35.02,qtd,5,Upc
+True,Category,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,qtd,3,Upc
+True,Category,Olio,23.88,qtd,1,Upc
+True,Category,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,qtd,1,Upc
+True,Category,Libertarianism for Beginners,51.33,qtd,2,Upc
+True,Category,It's Only the Himalayas,45.17,qtd,2,Upc
+True,Category,In Her Wake,12.84,qtd,1,Upc
+True,Category,How Music Works,37.32,qtd,2,Upc
+True,Category,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,qtd,3,Upc
+True,Category,Chase Me (Paris Nights #2),25.27,qtd,5,Upc
+True,Category,Black Dust,34.53,qtd,5,Upc
+True,Category,Birdsong: A Story in Pictures,54.64,qtd,3,Upc
+True,Category,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.5,qtd,3,Upc
+True,Category,Aladdin and His Wonderful Lamp,53.13,qtd,3,Upc
+True,Category,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,40.3,qtd,5,Upc
+True,Category,Wall and Piece,44.18,qtd,4,Upc
+True,Category,The Four Agreements: A Practical Guide to Personal Freedom,17.66,qtd,5,Upc
+True,Category,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05,qtd,3,Upc
+True,Category,The Elephant Tree,23.82,qtd,5,Upc
+True,Category,The Bear and the Piano,36.89,qtd,1,Upc
+True,Category,Sophie's World,15.94,qtd,5,Upc
+True,Category,Penny Maybe,33.29,qtd,3,Upc
+True,Category,Maude (1883-1993):She Grew Up with the country,18.02,qtd,2,Upc
+True,Category,"In a Dark, Dark Wood",19.63,qtd,1,Upc
+True,Category,Behind Closed Doors,52.22,qtd,4,Upc
+True,Category,You can't bury them all: Poems,33.63,qtd,2,Upc
+True,Category,Slow States of Collapse: Poems,57.31,qtd,3,Upc
+True,Category,Reasons to Stay Alive,26.41,qtd,2,Upc
+True,Category,Private Paris (Private #10),47.61,qtd,5,Upc
+True,Category,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,qtd,5,Upc
+True,Category,Without Borders (Wanderlove #1),45.07,qtd,2,Upc
+True,Category,When We Collided,31.77,qtd,1,Upc
+True,Category,"We Love You, Charlie Freeman",50.27,qtd,5,Upc
+True,Category,Untitled Collection: Sabbath Poems 2014,14.27,qtd,4,Upc
+True,Category,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails &amp; Other Wonders of the Urban Wilderness",44.18,qtd,4,Upc
+True,Category,Unicorn Tracks,18.78,qtd,3,Upc
+True,Category,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52,qtd,1,Upc
+True,Category,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),16.28,qtd,1,Upc
+True,Category,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,31.12,qtd,3,Upc
+True,Category,This One Summer,19.49,qtd,4,Upc
+True,Category,Thirst,17.27,qtd,5,Upc
+True,Category,The Torch Is Passed: A Harding Family Story,19.09,qtd,1,Upc
+True,Category,The Secret of Dreadwillow Carse,56.13,qtd,1,Upc
+True,Category,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41,qtd,1,Upc
+True,Category,The Past Never Ends,56.5,qtd,4,Upc
+True,Category,The Natural History of Us (The Fine Art of Pretending #2),45.22,qtd,3,Upc
+True,Category,The Nameless City (The Nameless City #1),38.16,qtd,4,Upc
+True,Category,The Murder That Never Was (Forensic Instincts #5),54.11,qtd,3,Upc
+True,Category,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,42.96,qtd,4,Upc
+True,Category,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",23.89,qtd,4,Upc
+True,Category,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,16.77,qtd,3,Upc
+True,Category,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",20.59,qtd,5,Upc
+True,Category,The Gutsy Girl: Escapades for Your Life of Epic Adventure,37.13,qtd,1,Upc
+True,Category,The Electric Pencil: Drawings from Inside State Hospital No. 3,56.06,qtd,1,Upc
+True,Category,The Death of Humanity: and the Case for Life,58.11,qtd,4,Upc
+True,Category,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05,qtd,3,Upc
+True,Category,The Art Forger,40.76,qtd,3,Upc
+True,Category,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73,qtd,1,Upc
+True,Category,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,32.24,qtd,5,Upc
+True,Category,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,41.83,qtd,4,Upc
+True,Category,Soul Reader,39.58,qtd,2,Upc
+True,Category,Security,39.25,qtd,2,Upc
+True,Category,"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,qtd,3,Upc
+True,Category,"Saga, Volume 5 (Saga (Collected Editions) #5)",51.04,qtd,2,Upc
+True,Category,Reskilling America: Learning to Labor in the Twenty-First Century,19.83,qtd,2,Upc
+True,Category,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",50.4,qtd,3,Upc
+True,Category,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",13.61,qtd,5,Upc
+True,Category,Princess Between Worlds (Wide-Awake Princess #5),13.34,qtd,5,Upc
+True,Category,"Pop Gun War, Volume 1: Gift",18.97,qtd,1,Upc
+True,Category,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28,qtd,2,Upc
+True,Category,Patience,10.16,qtd,3,Upc
+True,Category,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",15.44,qtd,4,Upc
+True,Category,orange: The Complete Collection 1 (orange: The Complete Collection #1),48.41,qtd,1,Upc
+True,Category,Online Marketing for Busy Authors: A Step-By-Step Guide,46.35,qtd,1,Upc
+True,Category,On a Midnight Clear,14.07,qtd,3,Upc
+True,Category,Obsidian (Lux #1),14.86,qtd,2,Upc
+True,Category,My Paris Kitchen: Recipes and Stories,33.37,qtd,2,Upc
+True,Category,Masks and Shadows,56.4,qtd,2,Upc
+True,Category,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02,qtd,4,Upc
+True,Category,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",46.91,qtd,2,Upc
+True,Category,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",45.61,qtd,3,Upc
+True,Category,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),19.92,qtd,2,Upc
+True,Category,"Layered: Baking, Building, and Styling Spectacular Cakes",40.11,qtd,1,Upc
+True,Category,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),53.9,qtd,2,Upc
+True,Category,Join,35.67,qtd,5,Upc
+True,Category,In the Country We Love: My Family Divided,22.0,qtd,4,Upc
+True,Category,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,57.36,qtd,5,Upc
+True,Category,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",29.17,qtd,2,Upc
+True,Category,I am a Hero Omnibus Volume 1,54.63,qtd,3,Upc
+True,Category,How to Be Miserable: 40 Strategies You Already Use,46.03,qtd,1,Upc
+True,Category,Her Backup Boyfriend (The Sorensen Family #1),33.97,qtd,1,Upc
+True,Category,"Giant Days, Vol. 2 (Giant Days #5-8)",22.11,qtd,2,Upc
+True,Category,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69,qtd,3,Upc
+True,Category,First and First (Five Boroughs #3),15.97,qtd,4,Upc
+True,Category,Fifty Shades Darker (Fifty Shades #2),21.96,qtd,1,Upc
+True,Category,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,54.35,qtd,2,Upc
+True,Category,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97,qtd,2,Upc
+True,Category,Danganronpa Volume 1,51.99,qtd,4,Upc
+True,Category,Crown of Midnight (Throne of Glass #2),43.29,qtd,3,Upc
+True,Category,"Codename Baboushka, Volume 1: The Conclave of Death",36.72,qtd,4,Upc
+True,Category,Camp Midnight,17.08,qtd,4,Upc
+True,Category,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,29.14,qtd,5,Upc
+True,Category,Burning,28.81,qtd,3,Upc
+True,Category,Bossypants,49.46,qtd,2,Upc
+True,Category,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",37.92,qtd,2,Upc
+True,Category,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,qtd,2,Upc
+True,Category,Algorithms to Live By: The Computer Science of Human Decisions,30.81,qtd,1,Upc
+True,Category,A World of Flavor: Your Gluten Free Passport,42.95,qtd,1,Upc
+True,Category,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",56.76,qtd,5,Upc
+True,Category,A Murder in Time,16.64,qtd,1,Upc
+True,Category,A Flight of Arrows (The Pathfinders #2),55.53,qtd,5,Upc
+True,Category,A Fierce and Subtle Poison,28.13,qtd,4,Upc
+True,Category,A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,qtd,1,Upc
+True,Category,(Un)Qualified: How God Uses Broken People to Do Big Things,54.0,qtd,5,Upc
+True,Category,You Are What You Love: The Spiritual Power of Habit,21.87,qtd,4,Upc
+True,Category,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.3,qtd,4,Upc
+True,Category,Tuesday Nights in 1980,21.04,qtd,2,Upc
+True,Category,Tracing Numbers on a Train,41.6,qtd,3,Upc
+True,Category,Throne of Glass (Throne of Glass #1),35.07,qtd,3,Upc
+True,Category,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64,qtd,1,Upc
+True,Category,Thirteen Reasons Why,52.72,qtd,1,Upc
+True,Category,The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,58.08,qtd,4,Upc
+True,Category,The Wedding Dress,24.12,qtd,1,Upc
+True,Category,The Vacationers,42.15,qtd,4,Upc
+True,Category,The Third Wave: An Entrepreneur’s Vision of the Future,12.61,qtd,5,Upc
+True,Category,The Stranger,17.44,qtd,4,Upc
+True,Category,The Shadow Hero (The Shadow Hero),33.14,qtd,1,Upc
+True,Category,The Secret (The Secret #1),27.37,qtd,4,Upc
+True,Category,The Regional Office Is Under Attack!,51.36,qtd,5,Upc
+True,Category,The Psychopath Test: A Journey Through the Madness Industry,36.0,qtd,2,Upc
+True,Category,The Project,10.65,qtd,1,Upc
+True,Category,The Power of Now: A Guide to Spiritual Enlightenment,43.54,qtd,2,Upc
+True,Category,The Omnivore's Dilemma: A Natural History of Four Meals,38.21,qtd,2,Upc
+True,Category,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34,qtd,5,Upc
+True,Category,The Murder of Roger Ackroyd (Hercule Poirot #4),44.1,qtd,4,Upc
+True,Category,The Mistake (Off-Campus #2),43.29,qtd,3,Upc
+True,Category,The Matchmaker's Playbook (Wingmen Inc. #1),55.85,qtd,1,Upc
+True,Category,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.6,qtd,2,Upc
+True,Category,The Long Shadow of Small Ghosts: Murder and Memory in an American City,10.97,qtd,1,Upc
+True,Category,The Kite Runner,41.82,qtd,4,Upc
+True,Category,The House by the Lake,36.95,qtd,1,Upc
+True,Category,The Glittering Court (The Glittering Court #1),44.28,qtd,1,Upc
+True,Category,The Girl on the Train,55.02,qtd,2,Upc
+True,Category,The Genius of Birds,17.24,qtd,1,Upc
+True,Category,The Emerald Mystery,23.15,qtd,2,Upc
+True,Category,The Cookies &amp; Cups Cookbook: 125+ sweet &amp; savory recipes reminding you to Always Eat Dessert First,41.25,qtd,1,Upc
+True,Category,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,32.0,qtd,3,Upc
+True,Category,The Artist's Way: A Spiritual Path to Higher Creativity,38.49,qtd,5,Upc
+True,Category,The Art of War,33.34,qtd,5,Upc
+True,Category,The Argonauts,10.93,qtd,2,Upc
+True,Category,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,qtd,3,Upc
+True,Category,Suddenly in Love (Lake Haven #1),55.99,qtd,2,Upc
+True,Category,Something More Than This,16.24,qtd,4,Upc
+True,Category,Soft Apocalypse,26.12,qtd,2,Upc
+True,Category,So You've Been Publicly Shamed,12.23,qtd,2,Upc
+True,Category,Shoe Dog: A Memoir by the Creator of NIKE,23.99,qtd,2,Upc
+True,Category,"Shobu Samurai, Project Aryoku (#3)",29.06,qtd,3,Upc
+True,Category,Secrets and Lace (Fatal Hearts #1),20.27,qtd,1,Upc
+True,Category,Scarlett Epstein Hates It Here,43.55,qtd,5,Upc
+True,Category,Romero and Juliet: A Tragic Tale of Love and Zombies,36.94,qtd,1,Upc
+True,Category,Redeeming Love,20.47,qtd,5,Upc
+True,Category,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,41.06,qtd,1,Upc
+True,Category,Poems That Make Grown Women Cry,14.19,qtd,4,Upc
+True,Category,"Nightingale, Sing",38.28,qtd,1,Upc
+True,Category,Night Sky with Exit Wounds,41.05,qtd,1,Upc
+True,Category,Mrs. Houdini,30.25,qtd,5,Upc
+True,Category,Modern Romance,28.26,qtd,5,Upc
+True,Category,Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1),10.76,qtd,1,Upc
+True,Category,Louisa: The Extraordinary Life of Mrs. Adams,16.85,qtd,2,Upc
+True,Category,Little Red,13.47,qtd,3,Upc
+True,Category,Library of Souls (Miss Peregrine’s Peculiar Children #3),48.56,qtd,5,Upc
+True,Category,Large Print Heart of the Pride,19.15,qtd,2,Upc
+True,Category,I Had a Nice Time And Other Lies...: How to find love &amp; sh*t like that,57.36,qtd,4,Upc
+True,Category,Hollow City (Miss Peregrine’s Peculiar Children #2),42.98,qtd,1,Upc
+True,Category,Grumbles,22.16,qtd,2,Upc
+True,Category,Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,49.43,qtd,4,Upc
+True,Category,Frostbite (Vampire Academy #2),29.99,qtd,5,Upc
+True,Category,Follow You Home,21.36,qtd,1,Upc
+True,Category,First Steps for New Christians (Print Edition),29.0,qtd,1,Upc
+True,Category,Finders Keepers (Bill Hodges Trilogy #2),53.53,qtd,5,Upc
+True,Category,"Fables, Vol. 1: Legends in Exile (Fables #1)",41.62,qtd,4,Upc
+True,Category,Eureka Trivia 6.0,54.59,qtd,4,Upc
+True,Category,Drive: The Surprising Truth About What Motivates Us,34.95,qtd,4,Upc
+True,Category,Done Rubbed Out (Reightman &amp; Bailey #1),37.72,qtd,5,Upc
+True,Category,Doing It Over (Most Likely To #1),35.61,qtd,3,Upc
+True,Category,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",42.16,qtd,3,Upc
+True,Category,Dark Notes,19.19,qtd,5,Upc
+True,Category,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",19.43,qtd,3,Upc
+True,Category,Close to You,49.46,qtd,4,Upc
+True,Category,Chasing Heaven: What Dying Taught Me About Living,37.8,qtd,2,Upc
+True,Category,Big Magic: Creative Living Beyond Fear,30.8,qtd,3,Upc
+True,Category,Becoming Wise: An Inquiry into the Mystery and Art of Living,27.43,qtd,2,Upc
+True,Category,Beauty Restored (Riley Family Legacy Novellas #3),11.11,qtd,2,Upc
+True,Category,Batman: The Long Halloween (Batman),36.5,qtd,2,Upc
+True,Category,Batman: The Dark Knight Returns (Batman),15.38,qtd,5,Upc
+True,Category,Ayumi's Violin,15.48,qtd,2,Upc
+True,Category,Anonymous,46.82,qtd,4,Upc
+True,Category,Amy Meets the Saints and Sages,18.46,qtd,3,Upc
+True,Category,Amid the Chaos,36.58,qtd,1,Upc
+True,Category,Amatus,50.54,qtd,5,Upc
+True,Category,Agnostic: A Spirited Manifesto,12.51,qtd,5,Upc
+True,Category,Zealot: The Life and Times of Jesus of Nazareth,24.7,qtd,3,Upc
+True,Category,You (You #1),43.61,qtd,5,Upc
+True,Category,"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",37.34,qtd,4,Upc
+True,Category,Wild Swans,14.36,qtd,2,Upc
+True,Category,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,52.65,qtd,4,Upc
+True,Category,Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,38.2,qtd,4,Upc
+True,Category,What's It Like in Space?: Stories from Astronauts Who've Been There,19.6,qtd,2,Upc
+True,Category,"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",53.9,qtd,1,Upc
+True,Category,Walt Disney's Alice in Wonderland,12.96,qtd,5,Upc
+True,Category,V for Vendetta (V for Vendetta Complete),37.1,qtd,4,Upc
+True,Category,Until Friday Night (The Field Party #1),46.31,qtd,2,Upc
+True,Category,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",45.95,qtd,2,Upc
+True,Category,Twenty Yawns,22.08,qtd,2,Upc
+True,Category,Through the Woods,25.38,qtd,2,Upc
+True,Category,This Is Where It Ends,27.12,qtd,2,Upc
+True,Category,The Year of Magical Thinking,43.04,qtd,2,Upc
+True,Category,The Wright Brothers,56.8,qtd,4,Upc
+True,Category,The White Queen (The Cousins' War #1),25.91,qtd,5,Upc
+True,Category,The Wedding Pact (The O'Malleys #2),32.61,qtd,3,Upc
+True,Category,The Time Keeper,27.88,qtd,5,Upc
+True,Category,The Testament of Mary,52.67,qtd,4,Upc
+True,Category,The Star-Touched Queen,46.02,qtd,5,Upc
+True,Category,The Songs of the Gods,44.48,qtd,5,Upc
+True,Category,The Song of Achilles,37.4,qtd,5,Upc
+True,Category,The Rosie Project (Don Tillman #1),54.04,qtd,1,Upc
+True,Category,The Power of Habit: Why We Do What We Do in Life and Business,16.88,qtd,3,Upc
+True,Category,The Marriage of Opposites,28.08,qtd,4,Upc
+True,Category,The Lucifer Effect: Understanding How Good People Turn Evil,10.4,qtd,1,Upc
+True,Category,The Long Haul (Diary of a Wimpy Kid #9),44.07,qtd,1,Upc
+True,Category,The Loney,23.4,qtd,1,Upc
+True,Category,The Literature Book (Big Ideas Simply Explained),17.43,qtd,3,Upc
+True,Category,The Last Mile (Amos Decker #2),54.21,qtd,2,Upc
+True,Category,The Immortal Life of Henrietta Lacks,40.67,qtd,2,Upc
+True,Category,The Hidden Oracle (The Trials of Apollo #1),52.26,qtd,2,Upc
+True,Category,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,28.77,qtd,3,Upc
+True,Category,The Guilty (Will Robie #4),13.82,qtd,2,Upc
+True,Category,The First Hostage (J.B. Collins #2),25.85,qtd,3,Upc
+True,Category,The Dovekeepers,48.78,qtd,1,Upc
+True,Category,The Darkest Lie,35.35,qtd,5,Upc
+True,Category,The Bane Chronicles (The Bane Chronicles #1-11),44.73,qtd,4,Upc
+True,Category,The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts,15.77,qtd,1,Upc
+True,Category,The 14th Colony (Cotton Malone #11),39.24,qtd,1,Upc
+True,Category,That Darkness (Gardiner and Renner #1),13.92,qtd,1,Upc
+True,Category,Tastes Like Fear (DI Marnie Rome #3),10.69,qtd,1,Upc
+True,Category,Take Me with You,45.21,qtd,3,Upc
+True,Category,Swell: A Year of Waves,45.58,qtd,1,Upc
+True,Category,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),11.89,qtd,5,Upc
+True,Category,Still Life with Bread Crumbs,26.41,qtd,3,Upc
+True,Category,Steve Jobs,39.5,qtd,5,Upc
+True,Category,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,44.74,qtd,4,Upc
+True,Category,Someone Like You (The Harrisons #2),52.79,qtd,5,Upc
+True,Category,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",35.43,qtd,4,Upc
+True,Category,Shtum,55.84,qtd,4,Upc
+True,Category,See America: A Celebration of Our National Parks &amp; Treasured Sites,48.87,qtd,3,Upc
+True,Category,salt.,46.78,qtd,4,Upc
+True,Category,Robin War,47.82,qtd,3,Upc
+True,Category,"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",25.48,qtd,2,Upc
+True,Category,Rain Fish,23.57,qtd,3,Upc
+True,Category,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",50.89,qtd,5,Upc
+True,Category,Pet Sematary,10.56,qtd,3,Upc
+True,Category,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",52.15,qtd,3,Upc
+True,Category,Once Was a Time,18.28,qtd,2,Upc
+True,Category,Old School (Diary of a Wimpy Kid #10),11.83,qtd,5,Upc
+True,Category,No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,21.95,qtd,2,Upc
+True,Category,"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 &amp; 42 (Naruto: Omnibus #14)",38.39,qtd,2,Upc
+True,Category,My Name Is Lucy Barton,41.56,qtd,1,Upc
+True,Category,My Mrs. Brown,24.48,qtd,3,Upc
+True,Category,My Kind of Crazy,40.36,qtd,1,Upc
+True,Category,Mr. Mercedes (Bill Hodges Trilogy #1),28.9,qtd,1,Upc
+True,Category,More Than Music (Chasing the Dream #1),37.61,qtd,2,Upc
+True,Category,Made to Stick: Why Some Ideas Survive and Others Die,38.85,qtd,5,Upc
+True,Category,Luis Paints the World,53.95,qtd,3,Upc
+True,Category,Luckiest Girl Alive,49.83,qtd,3,Upc
+True,Category,Lowriders to the Center of the Earth (Lowriders in Space #2),51.51,qtd,2,Upc
+True,Category,Love Is a Mix Tape (Music #1),18.03,qtd,1,Upc
+True,Category,Looking for Lovely: Collecting the Moments that Matter,29.14,qtd,5,Upc
+True,Category,"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",46.91,qtd,4,Upc
+True,Category,Let It Out: A Journey Through Journaling,26.79,qtd,5,Upc
+True,Category,Lady Midnight (The Dark Artifices #1),16.28,qtd,5,Upc
+True,Category,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",19.55,qtd,1,Upc
+True,Category,Island of Dragons (Unwanteds #7),29.65,qtd,1,Upc
+True,Category,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,25.98,qtd,4,Upc
+True,Category,I Am Pilgrim (Pilgrim #1),10.6,qtd,4,Upc
+True,Category,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",14.75,qtd,5,Upc
+True,Category,"Hush, Hush (Hush, Hush #1)",47.02,qtd,3,Upc
+True,Category,Hold Your Breath (Search and Rescue #1),28.82,qtd,1,Upc
+True,Category,Hamilton: The Revolution,58.79,qtd,3,Upc
+True,Category,Greek Mythic History,10.23,qtd,5,Upc
+True,Category,God: The Most Unpleasant Character in All Fiction,30.03,qtd,5,Upc
+True,Category,Glory over Everything: Beyond The Kitchen House,45.84,qtd,3,Upc
+True,Category,Feathers: Displays of Brilliant Plumage,49.05,qtd,3,Upc
+True,Category,"Far &amp; Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",15.06,qtd,4,Upc
+True,Category,Every Last Word,46.47,qtd,3,Upc
+True,Category,Eligible (The Austen Project #4),27.09,qtd,3,Upc
+True,Category,El Deafo,57.62,qtd,5,Upc
+True,Category,Eight Hundred Grapes,14.39,qtd,4,Upc
+True,Category,"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",51.75,qtd,5,Upc
+True,Category,"Eat Fat, Get Thin",54.07,qtd,2,Upc
+True,Category,Don't Get Caught,55.35,qtd,1,Upc
+True,Category,Doctor Sleep (The Shining #2),40.12,qtd,2,Upc
+True,Category,Demigods &amp; Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson &amp; Kane Chronicles Crossover #1-3),37.51,qtd,5,Upc
+True,Category,Dear Mr. Knightley,11.21,qtd,5,Upc
+True,Category,Daily Fantasy Sports,36.58,qtd,1,Upc
+True,Category,Crazy Love: Overwhelmed by a Relentless God,47.72,qtd,2,Upc
+True,Category,Cometh the Hour (The Clifton Chronicles #6),25.01,qtd,3,Upc
+True,Category,Code Name Verity (Code Name Verity #1),22.13,qtd,4,Upc
+True,Category,Clockwork Angel (The Infernal Devices #1),44.14,qtd,1,Upc
+True,Category,City of Glass (The Mortal Instruments #3),56.02,qtd,4,Upc
+True,Category,City of Fallen Angels (The Mortal Instruments #4),11.23,qtd,4,Upc
+True,Category,City of Bones (The Mortal Instruments #1),43.28,qtd,1,Upc
+True,Category,City of Ashes (The Mortal Instruments #2),47.27,qtd,1,Upc
+True,Category,Cell,20.29,qtd,4,Upc
+True,Category,Catching Jordan (Hundred Oaks),50.83,qtd,3,Upc
+True,Category,"Carry On, Warrior: Thoughts on Life Unarmed",31.85,qtd,3,Upc
+True,Category,Carrie,46.23,qtd,2,Upc
+True,Category,Buying In: The Secret Dialogue Between What We Buy and Who We Are,37.8,qtd,4,Upc
+True,Category,Brain on Fire: My Month of Madness,49.32,qtd,5,Upc
+True,Category,Batman: Europa,32.01,qtd,2,Upc
+True,Category,Barefoot Contessa Back to Basics,28.01,qtd,1,Upc
+True,Category,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,50.62,qtd,5,Upc
+True,Category,Balloon Animals,17.03,qtd,3,Upc
+True,Category,Art Ops Vol. 1,48.8,qtd,3,Upc
+True,Category,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),58.14,qtd,4,Upc
+True,Category,Angels Walking (Angels Walking #1),34.2,qtd,2,Upc
+True,Category,Angels &amp; Demons (Robert Langdon #1),51.48,qtd,3,Upc
+True,Category,All the Light We Cannot See,29.87,qtd,5,Upc
+True,Category,Adulthood Is a Myth: A &quot;Sarah's Scribbles&quot; Collection,10.9,qtd,2,Upc
+True,Category,Abstract City,56.37,qtd,5,Upc
+True,Category,A Time of Torment (Charlie Parker #14),48.35,qtd,5,Upc
+True,Category,A Study in Scarlet (Sherlock Holmes #1),16.73,qtd,2,Upc
+True,Category,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",56.48,qtd,2,Upc
+True,Category,A People's History of the United States,40.79,qtd,2,Upc
+True,Category,A Man Called Ove,39.72,qtd,1,Upc
+True,Category,A Distant Mirror: The Calamitous 14th Century,14.58,qtd,3,Upc
+True,Category,A Brush of Wings (Angels Walking #3),55.51,qtd,1,Upc
+True,Category,1491: New Revelations of the Americas Before Columbus,21.8,qtd,3,Upc
+True,Category,"The Three Searches, Meaning, and the Story",13.33,qtd,3,Upc
+True,Category,Searching for Meaning in Gailana,38.73,qtd,1,Upc
+True,Category,Rook,37.86,qtd,4,Upc
+True,Category,My Kitchen Year: 136 Recipes That Saved My Life,11.53,qtd,2,Upc
+True,Category,13 Hours: The Inside Account of What Really Happened In Benghazi,27.06,qtd,1,Upc
+True,Category,Will You Won't You Want Me?,13.86,qtd,3,Upc
+True,Category,Tipping Point for Planet Earth: How Close Are We to the Edge?,37.55,qtd,1,Upc
+True,Category,The Star-Touched Queen,32.3,qtd,5,Upc
+True,Category,The Silent Sister (Riley MacPherson #1),46.29,qtd,5,Upc
+True,Category,The Midnight Watch: A Novel of the Titanic and the Californian,26.2,qtd,1,Upc
+True,Category,The Lonely City: Adventures in the Art of Being Alone,33.26,qtd,2,Upc
+True,Category,The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,59.15,qtd,4,Upc
+True,Category,The Golden Condom: And Other Essays on Love Lost and Found,39.43,qtd,1,Upc
+True,Category,The Epidemic (The Program 0.6),14.44,qtd,5,Upc
+True,Category,The Dinner Party,56.54,qtd,2,Upc
+True,Category,The Diary of a Young Girl,59.9,qtd,3,Upc
+True,Category,The Children,11.88,qtd,3,Upc
+True,Category,Stars Above (The Lunar Chronicles #4.5),48.05,qtd,2,Upc
+True,Category,Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,21.21,qtd,3,Upc
+True,Category,Raspberry Pi Electronics Projects for the Evil Genius,49.67,qtd,4,Upc
+True,Category,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,43.14,qtd,1,Upc
+True,Category,Psycho: Sanitarium (Psycho #1.5),36.97,qtd,5,Upc
+True,Category,Poisonous (Max Revere Novels #3),26.8,qtd,3,Upc
+True,Category,One with You (Crossfire #5),15.71,qtd,4,Upc
+True,Category,No Love Allowed (Dodge Cove #1),54.65,qtd,4,Upc
+True,Category,Murder at the 42nd Street Library (Raymond Ambler #1),54.36,qtd,4,Upc
+True,Category,Most Wanted,35.28,qtd,3,Upc
+True,Category,"Love, Lies and Spies",20.55,qtd,2,Upc
+True,Category,How to Speak Golf: An Illustrated Guide to Links Lingo,58.32,qtd,5,Upc
+True,Category,Hide Away (Eve Duncan #20),11.84,qtd,1,Upc
+True,Category,Furiously Happy: A Funny Book About Horrible Things,41.46,qtd,4,Upc
+True,Category,Everyday Italian: 125 Simple and Delicious Recipes,20.1,qtd,5,Upc
+True,Category,Equal Is Unfair: America's Misguided Fight Against Income Inequality,56.86,qtd,1,Upc
+True,Category,Eleanor &amp; Park,56.51,qtd,5,Upc
+True,Category,Dirty (Dive Bar #1),40.83,qtd,4,Upc
+True,Category,Can You Keep a Secret? (Fear Street Relaunch #4),48.64,qtd,1,Upc
+True,Category,Boar Island (Anna Pigeon #19),59.48,qtd,3,Upc
+True,Category,A Paris Apartment,39.01,qtd,4,Upc
+True,Category,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",38.77,qtd,1,Upc
+True,Category,Troublemaker: Surviving Hollywood and Scientology,48.39,qtd,2,Upc
+True,Category,The Widow,27.26,qtd,2,Upc
+True,Category,"The Sleep Revolution: Transforming Your Life, One Night at a Time",11.68,qtd,4,Upc
+True,Category,The Improbability of Love,59.45,qtd,1,Upc
+True,Category,The Art of Startup Fundraising,21.0,qtd,3,Upc
+True,Category,Take Me Home Tonight (Rock Star Romance #3),53.98,qtd,3,Upc
+True,Category,Sleeping Giants (Themis Files #1),48.74,qtd,1,Upc
+True,Category,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",21.15,qtd,2,Upc
+True,Category,Playing with Fire,13.71,qtd,3,Upc
+True,Category,Off the Hook (Fishing for Trouble #1),47.67,qtd,3,Upc
+True,Category,Mothering Sunday,13.34,qtd,2,Upc
+True,Category,"Mother, Can You Not?",16.89,qtd,5,Upc
+True,Category,M Train,27.18,qtd,1,Upc
+True,Category,Lilac Girls,17.28,qtd,2,Upc
+True,Category,Lies and Other Acts of Love,45.14,qtd,1,Upc
+True,Category,Lab Girl,40.85,qtd,1,Upc
+True,Category,Keep Me Posted,20.46,qtd,4,Upc
+True,Category,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,56.27,qtd,3,Upc
+True,Category,Grey (Fifty Shades #4),48.49,qtd,4,Upc
+True,Category,"Exit, Pursued by a Bear",51.34,qtd,4,Upc
+True,Category,Daredevils,16.34,qtd,3,Upc
+True,Category,Cravings: Recipes for What You Want to Eat,20.5,qtd,3,Upc
+True,Category,Born for This: How to Find the Work You Were Meant to Do,21.59,qtd,5,Upc
+True,Category,Arena,21.36,qtd,4,Upc
+True,Category,Adultery,20.88,qtd,5,Upc
+True,Category,A Mother's Reckoning: Living in the Aftermath of Tragedy,19.53,qtd,3,Upc
+True,Category,A Gentleman's Position (Society of Gentlemen #3),14.75,qtd,5,Upc
+True,Category,11/22/63,48.48,qtd,3,Upc
+True,Category,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",24.57,qtd,2,Upc
+True,Category,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,49.71,qtd,5,Upc
+True,Category,Without Shame,48.27,qtd,5,Upc
+True,Category,Watchmen,58.05,qtd,4,Upc
+True,Category,Unlimited Intuition Now,58.87,qtd,4,Upc
+True,Category,Underlying Notes,11.82,qtd,2,Upc
+True,Category,The Shack,28.03,qtd,1,Upc
+True,Category,The New Brand You: Your New Image Makes the Sale for You,44.05,qtd,5,Upc
+True,Category,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",12.34,qtd,4,Upc
+True,Category,The Flowers Lied,16.68,qtd,2,Upc
+True,Category,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",55.91,qtd,1,Upc
+True,Category,The Book of Mormon,24.57,qtd,3,Upc
+True,Category,The Art and Science of Low Carbohydrate Living,52.98,qtd,5,Upc
+True,Category,The Alien Club,54.4,qtd,1,Upc
+True,Category,Suzie Snowflake: One beautiful flake (a self-esteem story),54.81,qtd,5,Upc
+True,Category,Nap-a-Roo,25.08,qtd,1,Upc
+True,Category,"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",10.41,qtd,4,Upc
+True,Category,Modern Day Fables,47.44,qtd,2,Upc
+True,Category,If I Gave You God's Phone Number....: Searching for Spirituality in America,20.91,qtd,1,Upc
+True,Category,"Fruits Basket, Vol. 9 (Fruits Basket #9)",33.95,qtd,4,Upc
+True,Category,Dress Your Family in Corduroy and Denim,43.68,qtd,3,Upc
+True,Category,Don't Forget Steven,33.23,qtd,1,Upc
+True,Category,Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,35.92,qtd,2,Upc
+True,Category,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,48.63,qtd,4,Upc
+True,Category,A Shard of Ice (The Black Symphony Saga #1),56.63,qtd,3,Upc
+True,Category,A Hero's Curse (The Unseen Chronicles #1),50.49,qtd,3,Upc
+True,Category,23 Degrees South: A Tropical Tale of Changing Whether...,35.79,qtd,2,Upc
+True,Category,"Zero to One: Notes on Startups, or How to Build the Future",34.06,qtd,3,Upc
+True,Category,Why Not Me?,17.76,qtd,1,Upc
+True,Category,When Breath Becomes Air,39.36,qtd,2,Upc
+True,Category,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94,qtd,2,Upc
+True,Category,The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),43.62,qtd,5,Upc
+True,Category,The New Drawing on the Right Side of the Brain,43.02,qtd,3,Upc
+True,Category,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",28.45,qtd,4,Upc
+True,Category,The Martian (The Martian #1),41.39,qtd,2,Upc
+True,Category,The High Mountains of Portugal,51.15,qtd,1,Upc
+True,Category,The Grownup,35.88,qtd,1,Upc
+True,Category,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,36.91,qtd,1,Upc
+True,Category,South of Sunshine,28.93,qtd,1,Upc
+True,Category,Smarter Faster Better: The Secrets of Being Productive in Life and Business,38.89,qtd,5,Upc
+True,Category,Silence in the Dark (Logan Point #4),58.33,qtd,3,Upc
+True,Category,Shadows of the Past (Logan Point #1),39.67,qtd,5,Upc
+True,Category,Roller Girl,14.1,qtd,5,Upc
+True,Category,Rising Strong,21.82,qtd,3,Upc
+True,Category,Proofs of God: Classical Arguments from Tertullian to Barth,54.21,qtd,1,Upc
+True,Category,Please Kill Me: The Uncensored Oral History of Punk,31.19,qtd,4,Upc
+True,Category,Out of Print: City Lights Spotlight No. 14,53.64,qtd,5,Upc
+True,Category,My Life Next Door (My Life Next Door ),36.39,qtd,5,Upc
+True,Category,Miller's Valley,58.54,qtd,2,Upc
+True,Category,Man's Search for Meaning,29.48,qtd,3,Upc
+True,Category,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",25.06,qtd,2,Upc
+True,Category,Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,12.55,qtd,3,Upc
+True,Category,Les Fleurs du Mal,29.04,qtd,5,Upc
+True,Category,Left Behind (Left Behind #1),40.72,qtd,2,Upc
+True,Category,Kill 'Em and Leave: Searching for James Brown and the American Soul,45.05,qtd,5,Upc
+True,Category,Kierkegaard: A Christian Missionary to Christians,47.13,qtd,1,Upc
+True,Category,John Vassos: Industrial Design for Modern Life,20.22,qtd,4,Upc
+True,Category,I'll Give You the Sun,56.48,qtd,1,Upc
+True,Category,I Will Find You,44.21,qtd,1,Upc
+True,Category,Hystopia: A Novel,21.96,qtd,4,Upc
+True,Category,Howl and Other Poems,40.45,qtd,2,Upc
+True,Category,History of Beauty,10.29,qtd,4,Upc
+True,Category,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,52.86,qtd,2,Upc
+True,Category,Future Shock (Future Shock #1),55.65,qtd,5,Upc
+True,Category,Ender's Game (The Ender Quintet #1),43.64,qtd,1,Upc
+True,Category,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,28.41,qtd,1,Upc
+True,Category,Death by Leisure: A Cautionary Tale,37.51,qtd,4,Upc
+True,Category,Brilliant Beacons: A History of the American Lighthouse,11.45,qtd,3,Upc
+True,Category,Brazen: The Courage to Find the You That's Been Hiding,19.22,qtd,2,Upc
+True,Category,Between the World and Me,56.91,qtd,4,Upc
+True,Category,Being Mortal: Medicine and What Matters in the End,55.06,qtd,4,Upc
+True,Category,"A Murder Over a Girl: Justice, Gender, Junior High",13.2,qtd,3,Upc
+True,Category,32 Yolks,53.63,qtd,2,Upc
+True,Category,'Most Blessed of the Patriarchs: Thomas Jefferson and the Empire of the Imagination',44.48,qtd,5,Upc
+True,Category,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,12.08,qtd,3,Upc
+True,Category,Wildlife of New York: A Five-Borough Coloring Book,22.14,qtd,2,Upc
+True,Category,What Happened on Beale Street (Secrets of the South Mysteries #2),25.37,qtd,5,Upc
+True,Category,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,46.33,qtd,2,Upc
+True,Category,Under the Tuscan Sun,37.33,qtd,3,Upc
+True,Category,Toddlers Are A**holes: It's Not Your Fault,25.55,qtd,1,Upc
+True,Category,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,34.72,qtd,1,Upc
+True,Category,The Whale,35.96,qtd,4,Upc
+True,Category,The Story of Art,41.14,qtd,4,Upc
+True,Category,The Origin of Species,10.01,qtd,4,Upc
+True,Category,The Great Gatsby,36.05,qtd,4,Upc
+True,Category,The Good Girl,49.03,qtd,3,Upc
+True,Category,The Glass Castle,16.24,qtd,1,Upc
+True,Category,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,39.55,qtd,1,Upc
+True,Category,The Drowning Girls,35.67,qtd,3,Upc
+True,Category,The Constant Princess (The Tudor Court #1),16.62,qtd,3,Upc
+True,Category,The Bourne Identity (Jason Bourne #1),42.78,qtd,4,Upc
+True,Category,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),52.3,qtd,5,Upc
+True,Category,The Art Book,32.34,qtd,2,Upc
+True,Category,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,33.17,qtd,4,Upc
+True,Category,Team of Rivals: The Political Genius of Abraham Lincoln,20.12,qtd,5,Upc
+True,Category,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,20.9,qtd,2,Upc
+True,Category,"Sit, Stay, Love",20.9,qtd,3,Upc
+True,Category,Sister Dear,40.2,qtd,4,Upc
+True,Category,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",52.87,qtd,3,Upc
+True,Category,"Rich Dad, Poor Dad",51.74,qtd,1,Upc
+True,Category,Raymie Nightingale,34.41,qtd,2,Upc
+True,Category,Playing from the Heart,32.38,qtd,1,Upc
+True,Category,Nightstruck: A Novel,50.35,qtd,4,Upc
+True,Category,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",11.38,qtd,5,Upc
+True,Category,Meternity,43.58,qtd,3,Upc
+True,Category,Memoirs of a Geisha,49.67,qtd,3,Upc
+True,Category,Like Never Before (Walker Family #2),28.77,qtd,2,Upc
+True,Category,Life of Pi,13.22,qtd,4,Upc
+True,Category,Leave This Song Behind: Teen Poetry at Its Best,51.17,qtd,5,Upc
+True,Category,King's Folly (The Kinsman Chronicles #1),39.61,qtd,5,Upc
+True,Category,John Adams,57.43,qtd,4,Upc
+True,Category,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),46.01,qtd,4,Upc
+True,Category,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,28.25,qtd,2,Upc
+True,Category,Good in Bed (Cannie Shapiro #1),37.05,qtd,5,Upc
+True,Category,"Fruits Basket, Vol. 7 (Fruits Basket #7)",19.57,qtd,1,Upc
+True,Category,For the Love: Fighting for Grace in a World of Impossible Standards,45.13,qtd,3,Upc
+True,Category,Finding God in the Ruins: How God Redeems Pain,46.64,qtd,2,Upc
+True,Category,Every Heart a Doorway (Every Heart A Doorway #1),12.16,qtd,5,Upc
+True,Category,Delivering the Truth (Quaker Midwife Mystery #1),20.89,qtd,4,Upc
+True,Category,Counted With the Stars (Out from Egypt #1),17.97,qtd,5,Upc
+True,Category,"Chronicles, Vol. 1",52.6,qtd,2,Upc
+True,Category,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,25.77,qtd,1,Upc
+True,Category,Benjamin Franklin: An American Life,48.19,qtd,3,Upc
+True,Category,"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",29.93,qtd,5,Upc
+True,Category,A Summer In Europe,44.34,qtd,2,Upc
+True,Category,A Short History of Nearly Everything,52.4,qtd,5,Upc
+True,Category,A Gathering of Shadows (Shades of Magic #2),44.81,qtd,4,Upc
+True,Category,The Sound Of Love,57.84,qtd,5,Upc
+True,Category,The Rise and Fall of the Third Reich: A History of Nazi Germany,39.67,qtd,2,Upc
+True,Category,The Perks of Being a Wallflower,55.02,qtd,3,Upc
+True,Category,The Mysterious Affair at Styles (Hercule Poirot #1),24.8,qtd,4,Upc
+True,Category,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,59.45,qtd,4,Upc
+True,Category,The Makings of a Fatherless Child,31.58,qtd,2,Upc
+True,Category,The Joy of Cooking,43.27,qtd,4,Upc
+True,Category,The Invention of Wings,37.34,qtd,1,Upc
+True,Category,The Hobbit (Middle-Earth Universe),17.8,qtd,5,Upc
+True,Category,The Great Railway Bazaar,30.54,qtd,1,Upc
+True,Category,The Golden Compass (His Dark Materials #1),18.77,qtd,1,Upc
+True,Category,The God Delusion,46.85,qtd,3,Upc
+True,Category,The Girl You Left Behind (The Girl You Left Behind #1),15.79,qtd,1,Upc
+True,Category,The Fellowship of the Ring (The Lord of the Rings #1),10.27,qtd,2,Upc
+True,Category,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),15.42,qtd,5,Upc
+True,Category,The Barefoot Contessa Cookbook,59.92,qtd,5,Upc
+True,Category,Tell the Wolves I'm Home,50.96,qtd,2,Upc
+True,Category,Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,30.6,qtd,3,Upc
+True,Category,Pride and Prejudice,19.27,qtd,4,Upc
+True,Category,Musicophilia: Tales of Music and the Brain,46.58,qtd,1,Upc
+True,Category,Mere Christianity,48.51,qtd,3,Upc
+True,Category,Me Before You (Me Before You #1),19.02,qtd,1,Upc
+True,Category,In the Woods (Dublin Murder Squad #1),38.38,qtd,2,Upc
+True,Category,In Cold Blood,49.98,qtd,4,Upc
+True,Category,How to Stop Worrying and Start Living,46.49,qtd,5,Upc
+True,Category,Give It Back,18.32,qtd,2,Upc
+True,Category,"Girl, Interrupted",42.14,qtd,3,Upc
+True,Category,Fun Home: A Family Tragicomic,56.59,qtd,4,Upc
+True,Category,"Fruits Basket, Vol. 6 (Fruits Basket #6)",20.96,qtd,4,Upc
+True,Category,Deception Point,40.32,qtd,4,Upc
+True,Category,"Death Note, Vol. 6: Give-and-Take (Death Note #6)",36.39,qtd,3,Upc
+True,Category,Catherine the Great: Portrait of a Woman,58.55,qtd,4,Upc
+True,Category,Better Homes and Gardens New Cook Book,39.61,qtd,3,Upc
+True,Category,An Unquiet Mind: A Memoir of Moods and Madness,21.3,qtd,3,Upc
+True,Category,A Year in Provence (Provence #1),56.88,qtd,4,Upc
+True,Category,World Without End (The Pillars of the Earth #2),32.97,qtd,4,Upc
+True,Category,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",47.31,qtd,4,Upc
+True,Category,Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,48.67,qtd,2,Upc
+True,Category,Where She Went (If I Stay #2),41.73,qtd,4,Upc
+True,Category,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,53.68,qtd,4,Upc
+True,Category,Two Summers,14.64,qtd,1,Upc
+True,Category,This Is Your Brain on Music: The Science of a Human Obsession,38.4,qtd,1,Upc
+True,Category,The Secret Garden,15.08,qtd,4,Upc
+True,Category,The Raven King (The Raven Cycle #4),30.57,qtd,2,Upc
+True,Category,The Raven Boys (The Raven Cycle #1),57.74,qtd,4,Upc
+True,Category,The Power Greens Cookbook: 140 Delicious Superfood Recipes,11.05,qtd,5,Upc
+True,Category,The Metamorphosis,28.58,qtd,1,Upc
+True,Category,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,42.91,qtd,5,Upc
+True,Category,The Little Paris Bookshop,24.73,qtd,3,Upc
+True,Category,The Hiding Place,55.91,qtd,4,Upc
+True,Category,The Grand Design,13.76,qtd,3,Upc
+True,Category,The Firm,45.56,qtd,3,Upc
+True,Category,The Fault in Our Stars,47.22,qtd,1,Upc
+True,Category,The False Prince (The Ascendance Trilogy #1),56.0,qtd,5,Upc
+True,Category,The Expatriates,44.58,qtd,2,Upc
+True,Category,The Dream Thieves (The Raven Cycle #2),34.5,qtd,1,Upc
+True,Category,The Darkest Corners,11.33,qtd,5,Upc
+True,Category,The Crossover,38.77,qtd,4,Upc
+True,Category,The 5th Wave (The 5th Wave #1),11.83,qtd,2,Upc
+True,Category,Tell the Wind and Fire,45.51,qtd,3,Upc
+True,Category,Tell Me Three Things,41.81,qtd,1,Upc
+True,Category,Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,25.15,qtd,4,Upc
+True,Category,Siddhartha,34.22,qtd,5,Upc
+True,Category,Shiver (The Wolves of Mercy Falls #1),16.23,qtd,5,Upc
+True,Category,Remember Me?,11.48,qtd,3,Upc
+True,Category,Red Dragon (Hannibal Lecter #1),23.37,qtd,3,Upc
+True,Category,Peak: Secrets from the New Science of Expertise,16.28,qtd,2,Upc
+True,Category,My Mother Was Nuts,31.63,qtd,4,Upc
+True,Category,Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,24.91,qtd,5,Upc
+True,Category,Maybe Something Beautiful: How Art Transformed a Neighborhood,22.54,qtd,1,Upc
+True,Category,Lola and the Boy Next Door (Anna and the French Kiss #2),23.63,qtd,4,Upc
+True,Category,Logan Kade (Fallen Crest High #5.5),13.12,qtd,2,Upc
+True,Category,Last One Home (New Beginnings #1),59.98,qtd,3,Upc
+True,Category,Killing Floor (Jack Reacher #1),31.49,qtd,4,Upc
+True,Category,Kill the Boy Band,15.52,qtd,5,Upc
+True,Category,Isla and the Happily Ever After (Anna and the French Kiss #3),48.13,qtd,5,Upc
+True,Category,If I Stay (If I Stay #1),38.13,qtd,5,Upc
+True,Category,I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),36.55,qtd,2,Upc
+True,Category,Harry Potter and the Deathly Hallows (Harry Potter #7),23.32,qtd,1,Upc
+True,Category,"Fruits Basket, Vol. 5 (Fruits Basket #5)",16.33,qtd,1,Upc
+True,Category,Foundation (Foundation (Publication Order) #1),32.42,qtd,1,Upc
+True,Category,Fool Me Once,16.96,qtd,1,Upc
+True,Category,Find Her (Detective D.D. Warren #8),22.37,qtd,1,Upc
+True,Category,Evicted: Poverty and Profit in the American City,42.27,qtd,1,Upc
+True,Category,Drama,38.7,qtd,2,Upc
+True,Category,Dracula the Un-Dead,35.63,qtd,5,Upc
+True,Category,Digital Fortress,58.0,qtd,5,Upc
+True,Category,"Death Note, Vol. 5: Whiteout (Death Note #5)",52.41,qtd,1,Upc
+True,Category,"Data, A Love Story: How I Gamed Online Dating to Meet My Match",32.35,qtd,3,Upc
+True,Category,Critique of Pure Reason,20.75,qtd,1,Upc
+True,Category,Booked,17.49,qtd,5,Upc
+True,Category,"Blue Lily, Lily Blue (The Raven Cycle #3)",34.13,qtd,5,Upc
+True,Category,Approval Junkie: Adventures in Caring Too Much,58.81,qtd,5,Upc
+True,Category,An Abundance of Katherines,10.0,qtd,5,Upc
+True,Category,America's War for the Greater Middle East: A Military History,51.22,qtd,2,Upc
+True,Category,Alight (The Generations Trilogy #2),58.59,qtd,4,Upc
+True,Category,A Girl's Guide to Moving On (New Beginnings #2),31.3,qtd,1,Upc
+True,Category,A Game of Thrones (A Song of Ice and Fire #1),46.42,qtd,2,Upc
+True,Category,A Feast for Crows (A Song of Ice and Fire #4),17.21,qtd,4,Upc
+True,Category,A Clash of Kings (A Song of Ice and Fire #2),10.79,qtd,3,Upc
+True,Category,Vogue Colors A to Z: A Fashion Coloring Book,52.35,qtd,4,Upc
+True,Category,The Shining (The Shining #1),27.88,qtd,3,Upc
+True,Category,The Pilgrim's Progress,50.26,qtd,2,Upc
+True,Category,The Perfect Play (Play by Play #1),59.99,qtd,3,Upc
+True,Category,The Passion of Dolssa,28.32,qtd,5,Upc
+True,Category,The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,38.71,qtd,3,Upc
+True,Category,The Hunger Games (The Hunger Games #1),29.85,qtd,5,Upc
+True,Category,The Hound of the Baskervilles (Sherlock Holmes #5),14.82,qtd,2,Upc
+True,Category,The Gunning of America: Business and the Making of American Gun Culture,16.81,qtd,4,Upc
+True,Category,The Geography of Bliss: One Grump's Search for the Happiest Places in the World,28.23,qtd,2,Upc
+True,Category,The Demonists (Demonist #1),52.11,qtd,2,Upc
+True,Category,"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",27.88,qtd,2,Upc
+True,Category,The Bone Hunters (Lexy Vaughan &amp; Steven Macaulay #2),59.71,qtd,3,Upc
+True,Category,The Beast (Black Dagger Brotherhood #14),46.08,qtd,5,Upc
+True,Category,Some Women,13.73,qtd,5,Upc
+True,Category,Shopaholic Ties the Knot (Shopaholic #3),48.39,qtd,5,Upc
+True,Category,Paper and Fire (The Great Library #2),49.45,qtd,5,Upc
+True,Category,Outlander (Outlander #1),19.67,qtd,5,Upc
+True,Category,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",12.36,qtd,3,Upc
+True,Category,No One Here Gets Out Alive,20.02,qtd,5,Upc
+True,Category,Night Shift (Night Shift #1-20),12.75,qtd,4,Upc
+True,Category,Needful Things,47.51,qtd,4,Upc
+True,Category,Mockingjay (The Hunger Games #3),20.44,qtd,4,Upc
+True,Category,Misery,34.79,qtd,2,Upc
+True,Category,Little Women (Little Women #1),28.07,qtd,4,Upc
+True,Category,It,25.01,qtd,3,Upc
+True,Category,Harry Potter and the Sorcerer's Stone (Harry Potter #1),13.9,qtd,3,Upc
+True,Category,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),24.17,qtd,4,Upc
+True,Category,Harry Potter and the Order of the Phoenix (Harry Potter #5),31.63,qtd,4,Upc
+True,Category,Harry Potter and the Half-Blood Prince (Harry Potter #6),48.75,qtd,5,Upc
+True,Category,Harry Potter and the Chamber of Secrets (Harry Potter #2),14.74,qtd,1,Upc
+True,Category,Gone with the Wind,32.49,qtd,3,Upc
+True,Category,God Is Not Great: How Religion Poisons Everything,27.8,qtd,1,Upc
+True,Category,Girl With a Pearl Earring,26.77,qtd,1,Upc
+True,Category,"Fruits Basket, Vol. 4 (Fruits Basket #4)",50.44,qtd,4,Upc
+True,Category,Far From True (Promise Falls Trilogy #2),34.93,qtd,2,Upc
+True,Category,Dark Lover (Black Dagger Brotherhood #1),12.87,qtd,1,Upc
+True,Category,Confessions of a Shopaholic (Shopaholic #1),48.94,qtd,2,Upc
+True,Category,Changing the Game (Play by Play #2),13.38,qtd,3,Upc
+True,Category,Candide,58.63,qtd,3,Upc
+True,Category,Can You Keep a Secret?,21.94,qtd,1,Upc
+True,Category,Atlas Shrugged,26.58,qtd,5,Upc
+True,Category,Animal Farm,57.22,qtd,3,Upc
+True,Category,A Walk to Remember,56.43,qtd,1,Upc
+True,Category,A New Earth: Awakening to Your Life's Purpose,55.65,qtd,5,Upc
+True,Category,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",27.62,qtd,1,Upc
+True,Category,'Salem's Lot,49.56,qtd,4,Upc
+True,Category,Zero History (Blue Ant #3),34.77,qtd,1,Upc
+True,Category,Wuthering Heights,17.73,qtd,3,Upc
+True,Category,World War Z: An Oral History of the Zombie War,21.8,qtd,1,Upc
+True,Category,Wild: From Lost to Found on the Pacific Crest Trail,46.02,qtd,3,Upc
+True,Category,"Where'd You Go, Bernadette",18.13,qtd,1,Upc
+True,Category,When You Are Engulfed in Flames,30.89,qtd,5,Upc
+True,Category,We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,31.95,qtd,3,Upc
+True,Category,We Are All Completely Beside Ourselves,24.04,qtd,1,Upc
+True,Category,Walk the Edge (Thunder Road #2),32.36,qtd,3,Upc
+True,Category,Voyager (Outlander #3),21.07,qtd,5,Upc
+True,Category,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,50.66,qtd,3,Upc
+True,Category,Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,13.66,qtd,2,Upc
+True,Category,"Unstuffed: Decluttering Your Home, Mind, and Soul",58.09,qtd,1,Upc
+True,Category,Under the Banner of Heaven: A Story of Violent Faith,30.0,qtd,1,Upc
+True,Category,Two Boys Kissing,32.74,qtd,2,Upc
+True,Category,Twilight (Twilight #1),41.93,qtd,2,Upc
+True,Category,Twenties Girl,42.8,qtd,2,Upc
+True,Category,"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",53.51,qtd,1,Upc
+True,Category,Three-Martini Lunch,23.21,qtd,3,Upc
+True,Category,"Thinking, Fast and Slow",21.14,qtd,1,Upc
+True,Category,The Wild Robot,56.07,qtd,3,Upc
+True,Category,"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",14.41,qtd,3,Upc
+True,Category,The Undomestic Goddess,45.75,qtd,4,Upc
+True,Category,The Travelers,15.77,qtd,1,Upc
+True,Category,The Tipping Point: How Little Things Can Make a Big Difference,10.02,qtd,2,Upc
+True,Category,The Thing About Jellyfish,48.77,qtd,1,Upc
+True,Category,The Stand,57.86,qtd,2,Upc
+True,Category,The Smitten Kitchen Cookbook,23.59,qtd,1,Upc
+True,Category,The Silkworm (Cormoran Strike #2),23.05,qtd,5,Upc
+True,Category,"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",55.55,qtd,5,Upc
+True,Category,The Rose &amp; the Dagger (The Wrath and the Dawn #2),58.64,qtd,4,Upc
+True,Category,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),23.21,qtd,1,Upc
+True,Category,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),42.57,qtd,3,Upc
+True,Category,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,qtd,1,Upc
+True,Category,The Rest Is Noise: Listening to the Twentieth Century,34.77,qtd,1,Upc
+True,Category,The Red Tent,35.66,qtd,5,Upc
+True,Category,The Purpose Driven Life: What on Earth Am I Here for?,37.19,qtd,3,Upc
+True,Category,The Purest Hook (Second Circle Tattoos #3),12.25,qtd,1,Upc
+True,Category,The Picture of Dorian Gray,29.7,qtd,2,Upc
+True,Category,The Paris Wife,36.8,qtd,3,Upc
+True,Category,The Obsession,45.43,qtd,1,Upc
+True,Category,The Nightingale,26.26,qtd,4,Upc
+True,Category,The New Guy (and Other Senior Year Distractions),44.92,qtd,3,Upc
+True,Category,The Nanny Diaries (Nanny #1),52.53,qtd,5,Upc
+True,Category,The Name of God is Mercy,37.25,qtd,2,Upc
+True,Category,The Maze Runner (The Maze Runner #1),20.93,qtd,1,Upc
+True,Category,The Lover's Dictionary,58.09,qtd,2,Upc
+True,Category,The Lonely Ones,43.59,qtd,5,Upc
+True,Category,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,33.92,qtd,3,Upc
+True,Category,The Last Painting of Sara de Vos,55.55,qtd,2,Upc
+True,Category,"The Land of 10,000 Madonnas",29.64,qtd,4,Upc
+True,Category,The Infinities,27.41,qtd,1,Upc
+True,Category,The Husband's Secret,52.51,qtd,5,Upc
+True,Category,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),47.8,qtd,3,Upc
+True,Category,The Guns of August,14.54,qtd,2,Upc
+True,Category,The Guernsey Literary and Potato Peel Pie Society,49.53,qtd,1,Upc
+True,Category,The Goldfinch,43.58,qtd,3,Upc
+True,Category,The Giver (The Giver Quartet #1),12.3,qtd,1,Upc
+True,Category,The Girl with All the Gifts,49.47,qtd,3,Upc
+True,Category,The Girl Who Played with Fire (Millennium Trilogy #2),22.14,qtd,2,Upc
+True,Category,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),57.48,qtd,1,Upc
+True,Category,The Exiled,43.45,qtd,3,Upc
+True,Category,"The End of Faith: Religion, Terror, and the Future of Reason",22.13,qtd,4,Upc
+True,Category,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",13.03,qtd,4,Upc
+True,Category,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",57.35,qtd,5,Upc
+True,Category,The Devil Wears Prada (The Devil Wears Prada #1),44.29,qtd,1,Upc
+True,Category,The Demon-Haunted World: Science as a Candle in the Dark,52.25,qtd,4,Upc
+True,Category,The Day the Crayons Came Home (Crayons),26.33,qtd,5,Upc
+True,Category,The Da Vinci Code (Robert Langdon #2),22.96,qtd,2,Upc
+True,Category,The Cuckoo's Calling (Cormoran Strike #1),19.21,qtd,1,Upc
+True,Category,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78,qtd,4,Upc
+True,Category,The Complete Poems,41.32,qtd,5,Upc
+True,Category,The Catcher in the Rye,24.55,qtd,1,Upc
+True,Category,The Cat in the Hat (Beginner Books B-1),16.26,qtd,2,Upc
+True,Category,The Case for Christ (Cases for Christianity),47.84,qtd,1,Upc
+True,Category,The Book Thief,53.49,qtd,2,Upc
+True,Category,The Book of Basketball: The NBA According to The Sports Guy,44.84,qtd,5,Upc
+True,Category,The Blind Side: Evolution of a Game,53.71,qtd,5,Upc
+True,Category,The Autobiography of Malcolm X,23.43,qtd,2,Upc
+True,Category,"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",34.32,qtd,3,Upc
+True,Category,The Art of Fielding,22.1,qtd,1,Upc
+True,Category,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",25.83,qtd,2,Upc
+True,Category,Stiff: The Curious Lives of Human Cadavers,36.74,qtd,3,Upc
+True,Category,Spilled Milk: Based on a True Story,49.51,qtd,1,Upc
+True,Category,Something Borrowed (Darcy &amp; Rachel #1),48.96,qtd,5,Upc
+True,Category,Something Blue (Darcy &amp; Rachel #2),54.62,qtd,1,Upc
+True,Category,Soldier (Talon #3),24.72,qtd,2,Upc
+True,Category,Shopaholic &amp; Baby (Shopaholic #5),46.45,qtd,2,Upc
+True,Category,Seven Days in the Art World,52.33,qtd,2,Upc
+True,Category,Seven Brief Lessons on Physics,30.6,qtd,4,Upc
+True,Category,Scarlet (The Lunar Chronicles #2),14.57,qtd,4,Upc
+True,Category,Sarah's Key,46.29,qtd,1,Upc
+True,Category,"Saga, Volume 3 (Saga (Collected Editions) #3)",21.57,qtd,5,Upc
+True,Category,Running with Scissors,12.91,qtd,4,Upc
+True,Category,Rogue Lawyer (Rogue Lawyer #1),50.11,qtd,3,Upc
+True,Category,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",41.67,qtd,4,Upc
+True,Category,Rework,44.88,qtd,2,Upc
+True,Category,Reservations for Two,11.1,qtd,3,Upc
+True,Category,Red: The True Story of Red Riding Hood,28.54,qtd,3,Upc
+True,Category,Ready Player One,19.07,qtd,4,Upc
+True,Category,Quiet: The Power of Introverts in a World That Can't Stop Talking,43.55,qtd,1,Upc
+True,Category,Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),43.63,qtd,3,Upc
+True,Category,Persepolis: The Story of a Childhood (Persepolis #1-2),39.13,qtd,1,Upc
+True,Category,Packing for Mars: The Curious Science of Life in the Void,56.68,qtd,2,Upc
+True,Category,Outliers: The Story of Success,14.16,qtd,1,Upc
+True,Category,Original Fake,31.45,qtd,3,Upc
+True,Category,Orange Is the New Black,24.61,qtd,2,Upc
+True,Category,One for the Money (Stephanie Plum #1),32.87,qtd,2,Upc
+True,Category,Notes from a Small Island (Notes From a Small Island #1),40.17,qtd,1,Upc
+True,Category,Night (The Night Trilogy #1),13.51,qtd,1,Upc
+True,Category,Neither Here nor There: Travels in Europe,38.95,qtd,3,Upc
+True,Category,Naked,31.69,qtd,3,Upc
+True,Category,Morning Star (Red Rising #3),29.4,qtd,1,Upc
+True,Category,"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",57.83,qtd,1,Upc
+True,Category,Midnight Riot (Peter Grant/ Rivers of London - books #1),55.46,qtd,2,Upc
+True,Category,Me Talk Pretty One Day,57.6,qtd,2,Upc
+True,Category,Manuscript Found in Accra,34.98,qtd,2,Upc
+True,Category,Lust &amp; Wonder,11.87,qtd,2,Upc
+True,Category,Lila (Gilead #3),12.47,qtd,3,Upc
+True,Category,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,qtd,2,Upc
+True,Category,Life Without a Recipe,59.04,qtd,5,Upc
+True,Category,Life After Life,26.13,qtd,2,Upc
+True,Category,Letter to a Christian Nation,22.2,qtd,1,Upc
+True,Category,Let's Pretend This Never Happened: A Mostly True Memoir,45.11,qtd,1,Upc
+True,Category,Legend (Legend #1),43.69,qtd,4,Upc
+True,Category,"Lean In: Women, Work, and the Will to Lead",25.02,qtd,1,Upc
+True,Category,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",55.5,qtd,5,Upc
+True,Category,Lady Renegades (Rebel Belle #3),53.04,qtd,5,Upc
+True,Category,Jurassic Park (Jurassic Park #1),44.97,qtd,1,Upc
+True,Category,It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,42.38,qtd,1,Upc
+True,Category,Is Everyone Hanging Out Without Me? (And Other Concerns),20.11,qtd,3,Upc
+True,Category,Into the Wild,56.7,qtd,5,Upc
+True,Category,Inferno (Robert Langdon #4),41.0,qtd,5,Upc
+True,Category,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",28.85,qtd,3,Upc
+True,Category,If I Run (If I Run #1),49.97,qtd,4,Upc
+True,Category,I've Got Your Number,19.69,qtd,1,Upc
+True,Category,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,28.88,qtd,2,Upc
+True,Category,Hungry Girl Clean &amp; Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,33.14,qtd,3,Upc
+True,Category,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",43.7,qtd,2,Upc
+True,Category,House of Leaves,54.89,qtd,1,Upc
+True,Category,Horrible Bear!,37.52,qtd,2,Upc
+True,Category,Holidays on Ice,51.07,qtd,2,Upc
+True,Category,Heir to the Sky,44.07,qtd,4,Upc
+True,Category,Green Eggs and Ham (Beginner Books B-16),10.79,qtd,4,Upc
+True,Category,"Grayson, Vol 3: Nemesis (Grayson #3)",42.72,qtd,1,Upc
+True,Category,Gratitude,26.66,qtd,5,Upc
+True,Category,Gone Girl,37.6,qtd,5,Upc
+True,Category,Golden (Heart of Dread #3),42.21,qtd,4,Upc
+True,Category,Girl in the Blue Coat,46.83,qtd,2,Upc
+True,Category,"Fruits Basket, Vol. 3 (Fruits Basket #3)",45.17,qtd,2,Upc
+True,Category,"Friday Night Lights: A Town, a Team, and a Dream",51.22,qtd,3,Upc
+True,Category,Fire Bound (Sea Haven/Sisters of the Heart #5),21.28,qtd,4,Upc
+True,Category,Fifty Shades Freed (Fifty Shades #3),15.36,qtd,5,Upc
+True,Category,Fellside,38.62,qtd,1,Upc
+True,Category,Extreme Prey (Lucas Davenport #26),25.4,qtd,3,Upc
+True,Category,Eragon (The Inheritance Cycle #1),43.87,qtd,3,Upc
+True,Category,Eclipse (Twilight #3),18.74,qtd,1,Upc
+True,Category,Dune (Dune #1),54.86,qtd,1,Upc
+True,Category,Dracula,52.62,qtd,3,Upc
+True,Category,Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,qtd,1,Upc
+True,Category,Disrupted: My Misadventure in the Start-Up Bubble,15.28,qtd,5,Upc
+True,Category,Dead Wake: The Last Crossing of the Lusitania,39.24,qtd,5,Upc
+True,Category,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",17.81,qtd,1,Upc
+True,Category,Darkfever (Fever #1),56.02,qtd,1,Upc
+True,Category,Dark Places,23.9,qtd,5,Upc
+True,Category,Crazy Rich Asians (Crazy Rich Asians #1),49.13,qtd,5,Upc
+True,Category,Counting Thyme,10.62,qtd,1,Upc
+True,Category,Cosmos,36.17,qtd,2,Upc
+True,Category,Civilization and Its Discontents,59.95,qtd,2,Upc
+True,Category,Cinder (The Lunar Chronicles #1),26.09,qtd,1,Upc
+True,Category,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,37.35,qtd,2,Upc
+True,Category,Career of Evil (Cormoran Strike #3),24.72,qtd,2,Upc
+True,Category,Breaking Dawn (Twilight #4),35.28,qtd,5,Upc
+True,Category,Brave Enough,51.32,qtd,5,Upc
+True,Category,Boy Meets Boy,21.12,qtd,3,Upc
+True,Category,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",27.35,qtd,2,Upc
+True,Category,Blink: The Power of Thinking Without Thinking,21.74,qtd,5,Upc
+True,Category,Black Flags: The Rise of ISIS,40.87,qtd,1,Upc
+True,Category,"Black Butler, Vol. 1 (Black Butler #1)",49.31,qtd,1,Upc
+True,Category,Big Little Lies,22.11,qtd,1,Upc
+True,Category,Between Shades of Gray,20.79,qtd,5,Upc
+True,Category,Best of My Love (Fool's Gold #20),27.41,qtd,2,Upc
+True,Category,Beowulf,38.35,qtd,2,Upc
+True,Category,Beautiful Creatures (Caster Chronicles #1),21.55,qtd,5,Upc
+True,Category,Awkward,38.02,qtd,2,Upc
+True,Category,Ash,22.06,qtd,4,Upc
+True,Category,Are We There Yet?,10.66,qtd,3,Upc
+True,Category,Are We Smart Enough to Know How Smart Animals Are?,56.58,qtd,1,Upc
+True,Category,Annie on My Mind,36.83,qtd,5,Upc
+True,Category,And Then There Were None,35.01,qtd,2,Upc
+True,Category,A Walk in the Woods: Rediscovering America on the Appalachian Trail,30.48,qtd,4,Upc
+True,Category,A Visit from the Goon Squad,14.08,qtd,5,Upc
+True,Category,A Storm of Swords (A Song of Ice and Fire #3),31.22,qtd,2,Upc
+True,Category,A Heartbreaking Work of Staggering Genius,54.29,qtd,5,Upc
+True,Category,8 Keys to Mental Health Through Exercise,31.04,qtd,1,Upc
+True,Category,#GIRLBOSS,50.96,qtd,1,Upc
+True,Category,"The Suffragettes (Little Black Classics, #96)",11.89,qtd,2,Upc
+True,Category,The Sense of an Ending,31.38,qtd,3,Upc
+True,Category,"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",54.81,qtd,1,Upc
+True,Category,The Course of Love,16.78,qtd,3,Upc
+True,Category,Sugar Rush (Offensive Line #2),24.42,qtd,1,Upc
+True,Category,"Saga, Volume 2 (Saga (Collected Editions) #2)",11.75,qtd,3,Upc
+True,Category,"Run, Spot, Run: The Ethics of Keeping Pets",20.02,qtd,1,Upc
+True,Category,New Moon (Twilight #2),12.86,qtd,4,Upc
+True,Category,Life,31.58,qtd,5,Upc
+True,Category,Kindle Paperwhite User's Guide,34.0,qtd,3,Upc
+True,Category,H is for Hawk,57.42,qtd,5,Upc
+True,Category,Girl Online On Tour (Girl Online #2),53.47,qtd,1,Upc
+True,Category,"Fruits Basket, Vol. 2 (Fruits Basket #2)",11.64,qtd,5,Upc
+True,Category,Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),52.88,qtd,4,Upc
+True,Category,"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",18.51,qtd,4,Upc
+True,Category,While You Were Mine,41.32,qtd,5,Upc
+True,Category,Where Lightning Strikes (Bleeding Stars #3),39.77,qtd,3,Upc
+True,Category,When I'm Gone,51.96,qtd,3,Upc
+True,Category,Ways of Seeing,39.51,qtd,5,Upc
+True,Category,"Vampire Knight, Vol. 1 (Vampire Knight #1)",15.4,qtd,1,Upc
+True,Category,Vampire Girl (Vampire Girl #1),53.82,qtd,2,Upc
+True,Category,Twenty Love Poems and a Song of Despair,30.95,qtd,4,Upc
+True,Category,Travels with Charley: In Search of America,57.82,qtd,5,Upc
+True,Category,Three Wishes (River of Time: California #1),44.18,qtd,2,Upc
+True,Category,This One Moment (Pushing Limits #1),48.71,qtd,1,Upc
+True,Category,The Zombie Room,19.69,qtd,5,Upc
+True,Category,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",36.52,qtd,2,Upc
+True,Category,The Tumor,41.56,qtd,5,Upc
+True,Category,The Story of Hong Gildong,43.19,qtd,4,Upc
+True,Category,The Silent Wife,12.34,qtd,5,Upc
+True,Category,The Silent Twin (Detective Jennifer Knight #3),36.25,qtd,3,Upc
+True,Category,The Selfish Gene,29.45,qtd,1,Upc
+True,Category,The Secret Healer,34.56,qtd,3,Upc
+True,Category,"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",54.12,qtd,3,Upc
+True,Category,The Republic,33.78,qtd,3,Upc
+True,Category,The Odyssey,29.64,qtd,3,Upc
+True,Category,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),57.7,qtd,4,Upc
+True,Category,The Nicomachean Ethics,36.34,qtd,1,Upc
+True,Category,The Name of the Wind (The Kingkiller Chronicle #1),50.59,qtd,3,Upc
+True,Category,The Mirror &amp; the Maze (The Wrath and the Dawn #1.5),29.38,qtd,1,Upc
+True,Category,The Little Prince,45.42,qtd,2,Upc
+True,Category,The Light of the Fireflies,54.43,qtd,1,Upc
+True,Category,The Last Girl (The Dominion Trilogy #1),36.26,qtd,2,Upc
+True,Category,The Iliad,16.16,qtd,1,Upc
+True,Category,The Hook Up (Game On #1),36.29,qtd,5,Upc
+True,Category,The Haters,27.89,qtd,5,Upc
+True,Category,The Girl You Lost,12.29,qtd,5,Upc
+True,Category,The Girl In The Ice (DCI Erika Foster #1),15.85,qtd,3,Upc
+True,Category,The End of the Jesus Era (An Investigation #1),14.4,qtd,1,Upc
+True,Category,The Edge of Reason (Bridget Jones #2),19.18,qtd,4,Upc
+True,Category,The Complete Maus (Maus #1-2),10.64,qtd,3,Upc
+True,Category,The Communist Manifesto,14.76,qtd,3,Upc
+True,Category,The Bhagavad Gita,57.49,qtd,3,Upc
+True,Category,The Bette Davis Club,30.66,qtd,3,Upc
+True,Category,The Art of Not Breathing,40.83,qtd,4,Upc
+True,Category,Taking Shots (Assassins #1),18.88,qtd,2,Upc
+True,Category,Starlark,25.83,qtd,3,Upc
+True,Category,"Skip Beat!, Vol. 01 (Skip Beat! #1)",42.12,qtd,3,Upc
+True,Category,Sister Sable (The Mad Queen #1),13.33,qtd,3,Upc
+True,Category,Shatter Me (Shatter Me #1),42.4,qtd,1,Upc
+True,Category,Shameless,58.35,qtd,3,Upc
+True,Category,Shadow Rites (Jane Yellowrock #10),21.72,qtd,4,Upc
+True,Category,Settling the Score (The Summer Games #1),44.91,qtd,2,Upc
+True,Category,Sense and Sensibility,37.46,qtd,1,Upc
+True,Category,"Saga, Volume 1 (Saga (Collected Editions) #1)",28.48,qtd,1,Upc
+True,Category,"Rhythm, Chord &amp; Malykhin",28.34,qtd,2,Upc
+True,Category,"Rat Queens, Vol. 1: Sass &amp; Sorcery (Rat Queens (Collected Editions) #1-5)",46.96,qtd,5,Upc
+True,Category,Paradise Lost (Paradise #1),24.96,qtd,1,Upc
+True,Category,"Paper Girls, Vol. 1 (Paper Girls #1-5)",21.71,qtd,4,Upc
+True,Category,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",29.87,qtd,3,Upc
+True,Category,Origins (Alphas 0.5),28.99,qtd,1,Upc
+True,Category,One Second (Seven #7),52.94,qtd,2,Upc
+True,Category,On the Road (Duluoz Legend),32.36,qtd,3,Upc
+True,Category,Old Records Never Die: One Man's Quest for His Vinyl and His Past,55.66,qtd,2,Upc
+True,Category,Off Sides (Off #1),39.45,qtd,5,Upc
+True,Category,Of Mice and Men,47.11,qtd,2,Upc
+True,Category,Myriad (Prentor #1),58.75,qtd,4,Upc
+True,Category,My Perfect Mistake (Over the Top #1),38.92,qtd,2,Upc
+True,Category,"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",39.39,qtd,4,Upc
+True,Category,Meditations,25.89,qtd,2,Upc
+True,Category,Matilda,28.34,qtd,1,Upc
+True,Category,Lost Among the Living,27.7,qtd,4,Upc
+True,Category,Lord of the Flies,24.89,qtd,3,Upc
+True,Category,Listen to Me (Fusion #1),58.99,qtd,3,Upc
+True,Category,Kitchens of the Great Midwest,57.2,qtd,5,Upc
+True,Category,Jane Eyre,38.43,qtd,5,Upc
+True,Category,Imperfect Harmony,34.74,qtd,4,Upc
+True,Category,Icing (Aces Hockey #2),40.44,qtd,4,Upc
+True,Category,"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",45.24,qtd,3,Upc
+True,Category,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,qtd,4,Upc
+True,Category,"Giant Days, Vol. 1 (Giant Days #1-4)",56.76,qtd,4,Upc
+True,Category,"Fruits Basket, Vol. 1 (Fruits Basket #1)",40.28,qtd,5,Upc
+True,Category,Frankenstein,38.0,qtd,2,Upc
+True,Category,Forever Rockers (The Rocker #12),28.8,qtd,3,Upc
+True,Category,Fighting Fate (Fighting #6),39.24,qtd,3,Upc
+True,Category,Emma,32.93,qtd,2,Upc
+True,Category,"Eat, Pray, Love",51.32,qtd,3,Upc
+True,Category,Deep Under (Walker Security #1),47.09,qtd,5,Upc
+True,Category,Choosing Our Religion: The Spiritual Lives of America's Nones,28.42,qtd,4,Upc
+True,Category,Charlie and the Chocolate Factory (Charlie Bucket #1),22.85,qtd,3,Upc
+True,Category,Charity's Cross (Charles Towne Belles #4),41.24,qtd,1,Upc
+True,Category,Bright Lines,39.07,qtd,5,Upc
+True,Category,Bridget Jones's Diary (Bridget Jones #1),29.82,qtd,1,Upc
+True,Category,Bounty (Colorado Mountain #7),37.26,qtd,4,Upc
+True,Category,Blood Defense (Samantha Brinkman #1),20.3,qtd,3,Upc
+True,Category,"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",34.65,qtd,5,Upc
+True,Category,Beyond Good and Evil,43.38,qtd,1,Upc
+True,Category,Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53,qtd,1,Upc
+True,Category,"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",57.06,qtd,4,Upc
+True,Category,A Spy's Devotion (The Regency Spies of London #1),16.97,qtd,5,Upc
+True,Category,1st to Die (Women's Murder Club #1),53.98,qtd,1,Upc
+True,Category,"1,000 Places to See Before You Die",26.08,qtd,5,Upc
