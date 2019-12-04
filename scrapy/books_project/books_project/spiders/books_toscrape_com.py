@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Books Scraping
+# http://books.toscrape.com/
 import scrapy
 
 from books_project.items import BooksItem
