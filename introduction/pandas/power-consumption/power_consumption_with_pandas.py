@@ -17,12 +17,3 @@ print()
 
 coluna = 'Date'
 print(df[coluna])
-
-
-
-
-
-
-
-
-

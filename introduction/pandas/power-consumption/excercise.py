@@ -24,6 +24,3 @@ print()
 
 print('Itens sem anomalias considerando Voltagem: ')
 print(df_2010[~anomalias])
-
-
-
